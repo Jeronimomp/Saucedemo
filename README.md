@@ -7,7 +7,7 @@
 Este proyecto corresponde a la simulación de una compra online de dos productos por parte de un cliente en la pagina web: https://www.saucedemo.com/
 
 ##  Pre-requisitos
-
+* Descargar la versión de Chromedriver de acuerdo a la versión del navegador
 * Java 8 o mayor.
 * Gradle para gestión de librerías.
 * Serenity BDD Screenplay.
